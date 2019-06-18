@@ -29,3 +29,7 @@ To boot a FRITZ!Box device from such an image, you may use one of the scripts fr
 ## WARNING:
 
 Do not use an image to boot a device model, for which the image was not explicitely built. It's simple to create an own image for the correct model ... please look into the 'toolbox' folder of this repository or read the (german) writing regarding this theme under: <http://www.ip-phone-forum.de/showthread.php?t=294386>
+
+## License
+
+All files in this repository are licensed under GPL version 2, because they contain a Linux kernel. The scripts used to create these files may be found in my YourFritz repository in the `toolbox` sub-directory.
